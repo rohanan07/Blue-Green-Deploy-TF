@@ -50,7 +50,6 @@ The Terraform configuration is organized into multiple files based on responsibi
 ├── asg.tf # Launch Template and Auto Scaling Group
 ├── user_data.sh # EC2 bootstrap script
 └── outputs.tf # Output values (ALB DNS, etc.)
----
 
 ## Application Deployment Details
 
