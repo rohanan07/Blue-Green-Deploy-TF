@@ -77,9 +77,9 @@ EC2 instances run in private subnets and pull the application image from Docker 
 
 ## How to Deploy
 
-terraform init
-terraform plan
-terraform apply
+-terraform init
+-terraform plan
+-terraform apply
 After deployment, access the application using the ALB DNS name output by Terraform.
 
 **Learning Outcomes**
